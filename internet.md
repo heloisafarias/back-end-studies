@@ -17,4 +17,6 @@ In this image we can see how data is send to another device. But how are these p
 Do you remember protocols? They are responsible for sending the data to the correct destination/device. Some protocols that are well known for this process are IP/TCP.
 
 IP - Internet Protocol is responsible for routing the packets for the correct destination.
+
+
 TCP - Transmission Control Protocol is responsible for assuring those packets are trustable and are in the correct order.
