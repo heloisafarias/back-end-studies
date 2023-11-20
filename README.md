@@ -6,5 +6,9 @@
 * 1st Chapter - [The Internet](/internet.md)
   
 ### The material I'm using to study this content is linked below:
+
+
 "Backend Developer Roadmap" (https://roadmap.sh/backend)
+
+
 "How does the Internet Work?" (https://cs.fyi/guide/how-does-internet-work#introduction-to-the-internet)
