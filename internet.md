@@ -16,12 +16,22 @@ In this image we can see how data is send to another device. But how are these p
 
 Do you remember protocols? They are responsible for sending the data to the correct destination/device. 
 
-## IP / TCP
+## Internet Protocols
 
-Some protocols that are well known for this process are IP/TCP.
+Protocols are very important in data exchange. They assure that the data sent will be received by the correct destination in a secure way.
+A protocol is a group of patterns that defines how the data transfer will be made between devices.
 
-* IP - Internet Protocol is responsible for routing the packets for the correct destination.
+
+* IP - Internet Protocol is responsible for routing the packets for the correct destination. It's an unique identifier that is attributed to a device, example: 192.168.1.1
 
 * TCP - Transmission Control Protocol is responsible for assuring those packets are trustable and are in the correct order.
+
+* DNS - Domain Name System. This is how the website will be called, example: github.com.
+
+How this is going to work:
+
+
+![How DNS works](https://github.com/heloisafarias/back-end-studies/assets/86490011/e21b420d-749a-47fd-8658-9327d390c86b)
+
 
   
