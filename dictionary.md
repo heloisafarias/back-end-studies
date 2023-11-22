@@ -1,3 +1,7 @@
+
+![dictionary](https://github.com/heloisafarias/back-end-studies/assets/86490011/8c7ec9b5-2b93-4033-a2f3-1da29e929797)
+
+
 * Packet -> A unit of data that is sent through the internet;
 * Router -> A device that directs data through different networks;
 * IP Address -> Internet Protocol Address (ex: **192.158.1.38**);
