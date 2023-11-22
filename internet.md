@@ -1,6 +1,6 @@
 # How does the Internet works?
 ## In this chapter we're going to learn more about how the Internet we know works.
-### You can find a dictionary with some concepts and keywords [HERE](/dictionary.md)
+### You can find a dictionary with some concepts and keywords [in the Dictionary](/dictionary.md)
 The Internet is a network of networks. But what is a network?
 Network is a group of devices grouped together. The connection between them is called Internet.
 
@@ -21,10 +21,11 @@ Do you remember protocols? They are responsible for sending the data to the corr
 Protocols are very important in data exchange. They assure that the data sent will be received by the correct destination in a secure way.
 A protocol is a group of patterns that defines how the data transfer will be made between devices.
 
-
+## IP, TCP, DNS
 * IP - Internet Protocol is responsible for routing the packets for the correct destination. It's an unique identifier that is attributed to a device, example: 192.168.1.1
 
 * TCP - Transmission Control Protocol is responsible for assuring those packets are trustable and are in the correct order.
+
 
 * DNS - Domain Name System. This is how the website will be called, example: github.com.
 
@@ -34,6 +35,12 @@ How this is going to work:
 
 ![How DNS works](https://github.com/heloisafarias/back-end-studies/assets/86490011/e21b420d-749a-47fd-8658-9327d390c86b)
 
+You can see some important concepts of TCP/IP [in the Dictionary](/dictionary.md)
+
+
+## HTTP E HTTPS
+
+
 * HTTP e HTTPS - Hypertext Transfer Protocol or Hypertext Transfer Protocol Secure.
 
 HTTPS is responsible for making the information exchanging between the client (Web browser, like Chrome) and the server (the Website you are navegating).
@@ -41,4 +48,15 @@ When you enter a website your browser send a HTTP request asking the webpage you
 
 ![how HTTPS works](https://github.com/heloisafarias/back-end-studies/assets/86490011/8e3a1116-0ad7-43a0-9e7a-efe0cbc0fb26)
 
+## SSL/TLS
 
+* SSL -> Secure Socket Layer;
+* TLS -> Transport Layer Secure;
+
+This two are secure protocols used for a safe communication at the Internet.
+They assure the data you are exchanging through the Internet are safe, applying rules so everything is confidential.
+
+These are some keywords that you have know to study this protocols:
+* Certirficates -> The certificates in SSL/TLS are used to establish confiability between the client and the server. It contains information about the identity of the server and are certificated by an authority (ex: Microsoft) to verify it and assure it's safe.
+* Handshake -> The Handshake is the definition of what the server and the client do while "talking", so they can negotiate the encryption of the information and other secure parameters they are exchanging.
+* Encryptation ->  The connection being estabilished, the data is encrypted using an encription algorithm, and can be exchanged in a safe way between both client and server.
