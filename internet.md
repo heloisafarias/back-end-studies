@@ -64,4 +64,14 @@ These are some keywords that you have know to study this protocols:
   
 ![How the handshake will work](https://github.com/heloisafarias/back-end-studies/assets/86490011/076f0c37-00e5-4b48-9aad-4f99a2954ff8)
 
+## Hosting a website
+
+A website is hosted on a server. It's like a house in the Internet where it's gonna live.
+This "place" is some company hardware server. Companies sell different types of server to host your website.
+You can divide it with a hundred other people, buy how much of space you want this house to have or even buy your own server.
+It's gonna depend on the purpose of the website you are building and how many data you're gonna exchange.
+
+![webhostin](https://github.com/heloisafarias/back-end-studies/assets/86490011/6b493a5a-3ab7-486d-ac58-2c3cf54489d9)
+
+
 
