@@ -1,6 +1,6 @@
 # How does the Internet works?
 ## In this chapter we're going to learn more about how the Internet we know works.
-### You can find a dictionary with some concepts and keywords [in the Dictionary](/dictionary.md)
+### You can find a dictionary with some concepts and keywords [here](/dictionary.md).
 The Internet is a network of networks. But what is a network?
 Network is a group of devices grouped together. The connection between them is called Internet.
 
