@@ -60,3 +60,8 @@ These are some keywords that you have know to study this protocols:
 * Certirficates -> The certificates in SSL/TLS are used to establish confiability between the client and the server. It contains information about the identity of the server and are certificated by an authority (ex: Microsoft) to verify it and assure it's safe.
 * Handshake -> The Handshake is the definition of what the server and the client do while "talking", so they can negotiate the encryption of the information and other secure parameters they are exchanging.
 * Encryptation ->  The connection being estabilished, the data is encrypted using an encription algorithm, and can be exchanged in a safe way between both client and server.
+
+  
+![How the handshake will work](https://github.com/heloisafarias/back-end-studies/assets/86490011/076f0c37-00e5-4b48-9aad-4f99a2954ff8)
+
+
