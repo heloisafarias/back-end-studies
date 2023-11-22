@@ -28,10 +28,17 @@ A protocol is a group of patterns that defines how the data transfer will be mad
 
 * DNS - Domain Name System. This is how the website will be called, example: github.com.
 
-How this is going to work:
+DNS is going to translate the name of the website you are accessing into an IP Address.
 
+How this is going to work:
 
 ![How DNS works](https://github.com/heloisafarias/back-end-studies/assets/86490011/e21b420d-749a-47fd-8658-9327d390c86b)
 
+* HTTP e HTTPS - Hypertext Transfer Protocol or Hypertext Transfer Protocol Secure.
 
-  
+HTTPS is responsible for making the information exchanging between the client (Web browser, like Chrome) and the server (the Website you are navegating).
+When you enter a website your browser send a HTTP request asking the webpage you are accessing. So, if everything is ok, the server will return it into a HTTP response, in this case a HTTPS response, which is responsible for encrypting the data.
+
+![how HTTPS works](https://github.com/heloisafarias/back-end-studies/assets/86490011/8e3a1116-0ad7-43a0-9e7a-efe0cbc0fb26)
+
+
